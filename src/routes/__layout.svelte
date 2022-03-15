@@ -70,11 +70,14 @@
 
 </script>
 
-<nav class="flex flex-wrap justify-between bg-emerald-100 text-emerald-900 font-bold px-4 py-2 sticky top-0 border-b-2 border-emerald-700 z-50">
+<nav class="flex flex-wrap justify-between items-center bg-emerald-100 text-emerald-900 font-bold px-4 py-2 sticky top-0 border-b-2 border-emerald-700 z-50">
   <a class="inline-flex items-center hover:text-emerald-800" href="/">
     <img src="/logo.png" alt="logo la resistencia maker" class="h-6 my-1 mr-2">
     <p class="text-lg">La Resistencia Maker</p>
   </a>
+  <div>
+    <p>Saber para Crear</p>
+  </div>
   <!-- <div>
     {#if $authStore.isLoggedIn}
     <button class="inline-block btn-sec" on:click={logout}>
