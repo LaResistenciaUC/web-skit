@@ -1,4 +1,4 @@
-<script lang=ts>
+<!-- <script lang=ts>
     import { goto } from "$app/navigation";
     import authStore from "../stores/authStore";
     import firebaseStore from "../stores/firebaseStore";
@@ -34,4 +34,4 @@
         }
     } 
     
-</script>
+</script> -->
