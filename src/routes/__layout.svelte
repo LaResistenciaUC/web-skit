@@ -76,7 +76,7 @@
     <p class="text-lg">La Resistencia Maker</p>
   </a>
   <div>
-    <p>Saber para Crear</p>
+    <p>Crear para saber</p>
   </div>
   <!-- <div>
     {#if $authStore.isLoggedIn}
